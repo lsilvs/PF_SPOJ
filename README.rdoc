@@ -8,3 +8,7 @@
 
 2284. Palavras primas
        http://br.spoj.com/problems/PAPRIMAS/
+
+1734. Quem vai ser reprovado
+       http://br.spoj.com/problems/PLACAR/
+
