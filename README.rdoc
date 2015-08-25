@@ -15,3 +15,6 @@
 1745. Recuperação
        http://br.spoj.com/problems/RECUPERA/
 
+1763. Sudoku
+       http://br.spoj.com/problems/SUDOIME/
+
