@@ -2,3 +2,6 @@
 
 2280. Encontre o telefone
        http://br.spoj.com/problems/ENCOTEL/
+
+2285. Krakóvia
+       http://br.spoj.com/problems/KRAKOVIA/
